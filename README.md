@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](tamucodepath/demo1.gif)
+![Alt text](https://raw.githubusercontent.com/umutyerli/tamucodepath/master/demo1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
