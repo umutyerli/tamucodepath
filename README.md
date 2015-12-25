@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tamucodepath/demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Alt text](tamucodepath/demo1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
