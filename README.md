@@ -4,7 +4,7 @@
 
 Submitted by: **Umut M. Yerli**
 
-Time spent: **3** hours spent in total
+Time spent: **24** hours spent in total
 
 ## User Stories
 
@@ -12,19 +12,20 @@ The following **required** functionality is complete:
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [X] Settings page to change the default tip percentage.
+* [X] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Most Recent
+
+![Alt text](https://raw.githubusercontent.com/umutyerli/tamucodepath/master/newversion.gif)
+
+Previous
 
 ![Alt text](https://raw.githubusercontent.com/umutyerli/tamucodepath/master/demo1.gif)
 
@@ -32,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Swift 2 is different than most programming languages out there. There is no need for semi-colons at the end of statements which caught me off-guard for a while. Also, the video was outdated which forced me to use my own resources to complete the app.
+A bit tedious and a couple obstacles were prevalent but I ended up finishing the project. Added a lot more things and had fun.
 
 
 ## License
